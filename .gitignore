@@ -1,0 +1,18 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Pasta de desenvolvimento (não precisa ir ao repositório público)
+dev/
+_dev/
+
+# Backups gerados durante desenvolvimento
+*.bak
+
+# Arquivos temporários
+*.tmp
+*.log
